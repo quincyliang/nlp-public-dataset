@@ -3,6 +3,7 @@
 ## NER dataset (English)
 
 * [CoNLL-2003](https://github.com/synalp/NER/tree/master/corpus/CoNLL-2003)
+* [OntoNotes-5.0](https://github.com/yuchenlin/OntoNotes-5.0-NER-BIO)
 * [MUC6](https://catalog.ldc.upenn.edu/LDC2003T13) 
 * [MUC7](https://catalog.ldc.upenn.edu/LDC2001T02)
 * [Twitter](https://github.com/aritter/twitter_nlp/blob/master/data/annotated/ner.txt)
