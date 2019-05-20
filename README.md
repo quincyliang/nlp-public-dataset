@@ -1,13 +1,16 @@
 # NLP-dataset
+* [General](https://github.com/juand-r/entity-recognition-datasets)
+
 
 ## NER dataset (English)
 
 * [CoNLL-2003](https://github.com/synalp/NER/tree/master/corpus/CoNLL-2003)
 * [OntoNotes-5.0](https://github.com/yuchenlin/OntoNotes-5.0-NER-BIO)
-* [MUC6](https://catalog.ldc.upenn.edu/LDC2003T13) 
-* [MUC7](https://catalog.ldc.upenn.edu/LDC2001T02)
+* [Wikigold](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/wikigold)
 * [Twitter](https://github.com/aritter/twitter_nlp/blob/master/data/annotated/ner.txt)
 * [kaggle](https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus/data)
+* [MUC6](https://catalog.ldc.upenn.edu/LDC2003T13) 
+* [MUC7](https://catalog.ldc.upenn.edu/LDC2001T02)
 
 ## NER dataset (Chinese)
 
