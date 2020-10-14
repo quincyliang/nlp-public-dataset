@@ -1,5 +1,11 @@
-# NLP-dataset
-* [General](https://github.com/juand-r/entity-recognition-datasets)
+# NLP-dataset 
+* [Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
+* [CLUEDatasetSearch](https://github.com/CLUEbenchmark/CLUEDatasetSearch)
+* [funNLP](https://github.com/fighting41love/funNLP)
+* [ChineseNLPCorpus1](https://github.com/InsaneLife/ChineseNLPCorpus)
+* [ChineseNLPCorpus2](https://github.com/SophonPlus/ChineseNlpCorpus)
+* [CLUE](https://www.cluebenchmarks.com/introduce.html)
+* [NER](https://github.com/juand-r/entity-recognition-datasets)
 
 
 ## NER dataset (English)
