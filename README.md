@@ -18,6 +18,7 @@
 - [MSRA](https://github.com/quincyliang/nlp-dataset/tree/master/ner-data/MSRA)
 - [Boson](https://github.com/quincyliang/nlp-dataset/tree/master/ner-data/boson)
 - [Weibo](https://github.com/quincyliang/nlp-dataset/tree/master/ner-data/weibo)
+- [Others](https://github.com/OYE93/Chinese-NLP-Corpus/tree/master/NER)
 
 ## Machine Translation (Chinese-English)
 
