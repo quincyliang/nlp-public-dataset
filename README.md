@@ -6,6 +6,8 @@
 * [ChineseNLPCorpus2](https://github.com/SophonPlus/ChineseNlpCorpus)
 * [CLUE](https://www.cluebenchmarks.com/introduce.html)
 * [NER](https://github.com/juand-r/entity-recognition-datasets)
+* [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
+* [awesome-nlp](https://github.com/keon/awesome-nlp#datasets)
 
 
 ## NER dataset (English)
