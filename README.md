@@ -21,7 +21,7 @@
 * [MUC7](https://catalog.ldc.upenn.edu/LDC2001T02)
 
 ## NER dataset (Chinese)
-
+- [MSRA, OntoNotes 4.0, Resume, Weibo](https://drive.google.com/file/d/1mDKkc2-8e4wXAuAnGiZMHI59UgVbl1q4/view)
 - [RenMinRiBao](https://github.com/quincyliang/nlp-dataset/tree/master/ner-data/renMinRiBao)
 - [MSRA](https://github.com/quincyliang/nlp-dataset/tree/master/ner-data/MSRA)
 - [Boson](https://github.com/quincyliang/nlp-dataset/tree/master/ner-data/boson)
