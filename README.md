@@ -8,7 +8,7 @@
 * [NER](https://github.com/juand-r/entity-recognition-datasets)
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
 * [awesome-nlp](https://github.com/keon/awesome-nlp#datasets)
-
+* [Chinese NLP data by ShannonAI](https://github.com/ShannonAI/glyce/blob/master/docs/dataset_download.md)
 
 ## NER dataset (English)
 
