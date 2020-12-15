@@ -32,7 +32,7 @@
 
 ## Machine Translation (Chinese-English)
 
-- [WMT 2018](http://statmt.org/wmt18/translation-task.html#download)
+- [WMT 2020](http://statmt.org/wmt20/translation-task.html)
 - [AI challenger](https://challenger.ai/) (英中翻译规模最大的口语领域英中双语对照数据集)
 - [UM-Corpus: A Large English-Chinese Parallel Corpus](http://nlp2ct.cis.umac.mo/um-corpus/)
 - [OpenSubtitles2016](http://opus.nlpl.eu/OpenSubtitles2016.php)
