@@ -10,6 +10,12 @@
 * [nlp-datasets, Multilingual](https://github.com/niderhoff/nlp-datasets)
 * [awesome-nlp, Multilingual](https://github.com/keon/awesome-nlp#datasets)
 
+## Chinese Word Segmentation
+* [SIGHAN2005](http://sighan.cs.uchicago.edu/bakeoff2005/)
+* [multi-criteria-cws](https://github.com/hankcs/multi-criteria-cws)
+* [Chinese NLP data by ShannonAI, Chinese](https://github.com/ShannonAI/glyce/blob/master/docs/dataset_download.md)
+
+
 ## NER dataset (English)
 * [various NER dataset](https://github.com/juand-r/entity-recognition-datasets)
 * [CoNLL-2003, Offical](https://www.clips.uantwerpen.be/conll2003/ner/), [CoNLL-2003, other link](https://github.com/synalp/NER/tree/master/corpus/CoNLL-2003)
