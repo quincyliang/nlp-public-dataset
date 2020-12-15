@@ -12,7 +12,7 @@
 
 ## NER dataset (English)
 
-* [CoNLL-2003, Reuters data](https://github.com/synalp/NER/tree/master/corpus/CoNLL-2003)
+* [CoNLL-2003, Offical](https://www.clips.uantwerpen.be/conll2003/ner/), [CoNLL-2003, other link](https://github.com/synalp/NER/tree/master/corpus/CoNLL-2003)
 * [WNUT-2016, Twitter](https://github.com/aritter/twitter_nlp/tree/master/data/annotated/wnut16)
 * [OntoNotes-5.0, broadcase news, braodcase conversation, weblogs, magzine genre](https://github.com/yuchenlin/OntoNotes-5.0-NER-BIO)
 * [Wikigold](https://github.com/juand-r/entity-recognition-datasets/tree/master/data/wikigold)
